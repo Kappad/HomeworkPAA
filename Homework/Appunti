@@ -1,0 +1,3 @@
+Bisogna trovare un modo per tenere traccia del percorso fatto, in modo da usarlo per le priorità di scelta.
+La precedenza deve essere EST, SUD, OVEST, NORD, per le direzioni, mentre per il sentier ha precedenza quello meno percorso.
+Bisogna anche differenziare tra sentieri percorsi e sentieri "ciechi" 
